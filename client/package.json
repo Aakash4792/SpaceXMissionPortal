@@ -36,7 +36,5 @@
   "overrides": {
     "nth-check@1.0.2": "2.0.1"
   },
-  "devDependencies": {
-    "6_nasa_project": "file:.."
-  }
+  "devDependencies": {}
 }
