@@ -16,7 +16,6 @@
     "testEnvironment": "node"
   },
   "dependencies": {
-    "6_nasa_project": "file:..",
     "axios": "^1.4.0",
     "cors": "^2.8.5",
     "csv-parse": "^5.4.0",
